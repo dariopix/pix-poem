@@ -4,5 +4,6 @@ rosso
 violetto
 giallo
 porpora
+verde
 blu
 Questi sono i colori dell'arcobaleno
