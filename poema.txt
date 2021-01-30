@@ -5,6 +5,7 @@ violetto
 giallo
 porpora
 verde
+rosa
 unicorno
 blu
 ciano
