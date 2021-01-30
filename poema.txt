@@ -6,4 +6,5 @@ giallo
 porpora
 verde
 blu
+ciano
 Questi sono i colori dell'arcobaleno
